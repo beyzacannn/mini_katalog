@@ -1,0 +1,152 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "AirPods Pro (2nd Gen)",
+      "subtitle": "Adaptive Audio",
+      "price": 249,
+      "image": "assets/images/airpods_pro.png",
+      "description": "AirPods Pro (2nd generation) deliver up to 2x more Active Noise Cancellation, plus Adaptive Transparency and Personalized Spatial Audio with dynamic head tracking. The H2 chip powers richer, more detailed sound, and the MagSafe case gives up to 30 hours of total listening time.",
+      "specs": {
+        "CASE": "1.8 inches",
+        "BATTERY": "6 hours",
+        "NOISE": "Active cancellation"
+      },
+      "colors": [
+        "#FFFFFF"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "AirPods Max",
+      "subtitle": "Sound focused",
+      "price": 549,
+      "image": "assets/images/airpods_max.png",
+      "description": "AirPods Max combine high-fidelity audio with industry-leading Active Noise Cancellation. A breathable knit mesh canopy, memory foam ear cushions and a stainless steel frame make them comfortable for all-day listening, with Spatial Audio that surrounds you.",
+      "specs": {
+        "WEIGHT": "13.6 oz",
+        "BATTERY": "20 hours",
+        "AUDIO": "Spatial Audio"
+      },
+      "colors": [
+        "#D9DADB",
+        "#6E6E73",
+        "#A9C7DD",
+        "#C3D8C5",
+        "#F0D3D6"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "HomePod",
+      "subtitle": "Profound sound",
+      "price": 299,
+      "image": "assets/images/homepod.png",
+      "description": "HomePod delivers rich, deep bass and crystal-clear highs. It senses the room around it and adjusts the sound automatically, so music fills the space beautifully. Use Siri to control music and your smart home with just your voice.",
+      "specs": {
+        "SIZE": "6.6 inches",
+        "AUDIO": "Room sensing",
+        "CONNECTIVITY": "Wi-Fi, Thread"
+      },
+      "colors": [
+        "#1D1D1F",
+        "#F5F5F7"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "HomePod Mini",
+      "subtitle": "Color-pop",
+      "price": 99,
+      "image": "assets/images/homepod_mini.png",
+      "description": "The HomePod Mini is jam-packed with innovation, delivering unexpectedly big sound for a speaker of its size. At just 3.3 inches tall, it takes up almost the entire room with rich 360-degree audio. It works effortlessly with your iPhone and also acts as an intelligent assistant that helps you manage your smart home.",
+      "specs": {
+        "SIZE": "3.3 inches",
+        "AUDIO": "360-degree"
+      },
+      "colors": [
+        "#E8613A",
+        "#2F7FE8",
+        "#9DC1E8",
+        "#EDEDED",
+        "#F2D44E",
+        "#111111"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "iPhone 15 Pro",
+      "subtitle": "So strong. So light. So Pro.",
+      "price": 999,
+      "image": "assets/images/iphone_15_pro.png",
+      "description": "iPhone 15 Pro is the first iPhone with an aerospace-grade titanium design. It features the powerful A17 Pro chip, a customizable Action button, a USB-C connector and a Pro camera system that captures stunning detail in any light.",
+      "specs": {
+        "SIZE": "6.1 inches",
+        "CHIP": "A17 Pro",
+        "STORAGE": "128 GB"
+      },
+      "colors": [
+        "#BAB5AB",
+        "#3C4A5A",
+        "#E8E6E1",
+        "#2D2D2F"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "MacBook Pro 14\"",
+      "subtitle": "Pro to the max.",
+      "price": 1599,
+      "image": "assets/images/macbook_pro.png",
+      "description": "MacBook Pro 14\" brings incredible performance and battery life in a portable design. The Liquid Retina XDR display delivers extreme dynamic range, while the advanced Apple silicon chip handles demanding workflows with ease.",
+      "specs": {
+        "SIZE": "14.2 inches",
+        "CHIP": "M3 Pro",
+        "BATTERY": "Up to 18 hours"
+      },
+      "colors": [
+        "#2E2E30",
+        "#D7D9DC"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "iPad Air",
+      "subtitle": "Light. Bright. Full of might.",
+      "price": 599,
+      "image": "assets/images/ipad_air.png",
+      "description": "iPad Air is thin, light and powerful. With a stunning Liquid Retina display, a fast Apple silicon chip, and support for Apple Pencil and Magic Keyboard, it is ready for everything from creative work to everyday fun.",
+      "specs": {
+        "SIZE": "10.9 inches",
+        "CHIP": "M1",
+        "DISPLAY": "Liquid Retina"
+      },
+      "colors": [
+        "#8A8F99",
+        "#E3D5CB",
+        "#F0C3CB",
+        "#8D6BC4",
+        "#4A7FC2"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Apple Watch Series 9",
+      "subtitle": "Smarter. Brighter. Mightier.",
+      "price": 399,
+      "image": "assets/images/apple_watch.png",
+      "description": "Apple Watch Series 9 has a brighter display, a faster chip and a new way to interact with a double tap. Track workouts, monitor your health, and stay connected with notifications right on your wrist.",
+      "specs": {
+        "SIZE": "45 mm",
+        "DISPLAY": "Always-On Retina",
+        "BATTERY": "18 hours"
+      },
+      "colors": [
+        "#2E2E30",
+        "#E3D5CB",
+        "#E8613A",
+        "#F0C3CB"
+      ]
+    }
+  ]
+}
